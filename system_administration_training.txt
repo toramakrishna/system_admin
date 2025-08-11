@@ -1,0 +1,20 @@
+System Administration Training 2025-26
+Artificial Intelligence Lab, SCIS
+
+The System Administration Training (SAT) program is designed to help participants learn about maintaining the server and client machines, and the network at the AI Lab.
+
+Syllabus
+Session 1: Linux basics and Boot process
+Topics: Unix-philosophy, Unix/free-software/Linux history, Kernel Vs OS, boot process, GRUB, run-levels, file system hierarchy, using the shell, file permission, getting help: man/info pages, text editing.
+
+Session 2: OS Installation, Configuration, and Package Management
+Topics: Installation methods/media, steps in installation- hard disk partitioning/types of filesystems/swap-space, dual-boot, using package manager to install new software -apt tools, compiling from source, changing the kernel. Keeping systems up to date.
+
+Session 3: Shell Tools and Scripting
+Topics: Overview of basic shell commands, output/input re-directions, pipes, basic text processing commands grep, cut, sed etc... shell scripting basics and examples of automating a few tasks using scripts.
+
+Session 4: Users, Networking and Security, Services, logs and troubleshooting
+Topics: Adding users and groups, authentication/authorization methods/files, scripts for adding users/updating passwords etc, Networking: interfaces, ip-address ranges/masks, firewall, iptables, related commands - ssh, ftp, scp etc. Service management with systemctl, logging - Types of log files, kernel verbosity, Cron jobs, troubleshooting various scenarios, searching for incidents etc.
+
+Session 5: NIS and NFS
+Topics: Network Information System (NIS) and Network File System (NFS) in AI Lab.
